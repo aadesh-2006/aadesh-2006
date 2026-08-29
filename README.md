@@ -1,4 +1,6 @@
-# 🚀 Aadesh Gund | AI/ML Engineer • DSA Warrior • Full-Stack Builder
+# 🚀 Aadesh Gund 
+
+AI/ML Engineer • DSA  • Full-Stack Builder
 
 <div align="center">
 
@@ -8,9 +10,10 @@
 
 ```
 ╔════════════════════════════════════════════════════════════╗
-║  🎯 Building Practical Systems • Learning Deeply          ║
-║  📍 VIT-AP University, Batch 2024-2028 | AIR 440 JEE      ║
-║  🔗 FAANG Internship Incoming • R&D Passion               ║
+║  🎯 Build things which makes world better....             ║
+║      Learn everyday                                        ║
+║      BUild everyday                                        ║
+║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
 
