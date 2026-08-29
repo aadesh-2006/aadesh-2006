@@ -1,7 +1,7 @@
-<div align='center">
+
 # 🚀 Aadesh Gund 
-  </div>
-<div align="center"> 
+  
+
 
 # AI/ML Engineer • DSA  • Full-Stack Builder
 
