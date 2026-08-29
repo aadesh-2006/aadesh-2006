@@ -1,152 +1,197 @@
-🚀 Aadesh Gund | AI/ML Engineer • DSA Warrior • Full-Stack Builder
+# 🚀 Aadesh Gund | AI/ML Engineer • DSA Warrior • Full-Stack Builder
+
 <div align="center">
 
-Show Image Show Image Show Image
+![Profile Views](https://komarev.com/ghpvc/?username=aadesh-2006&label=Profile%20Views&color=FF6B35&style=flat-square)
+![Repos Badge](https://img.shields.io/badge/Repositories-8+-6A4C93?style=flat-square&logo=github)
+![LeetCode](https://img.shields.io/badge/LeetCode-1759%20Rating-FFA500?style=flat-square&logo=leetcode)
 
+```
 ╔════════════════════════════════════════════════════════════╗
 ║  🎯 Building Practical Systems • Learning Deeply          ║
 ║  📍 VIT-AP University, Batch 2024-2028 | AIR 440 JEE      ║
 ║  🔗 FAANG Internship Incoming • R&D Passion               ║
 ╚════════════════════════════════════════════════════════════╝
+```
+
 </div>
-⚡ Current Focus <img src="https://media.giphy.com/media/QssGEjMiMWYMPewLEV/giphy.gif" width="25">
-🤖 AI/ML	🔢 DSA	💻 SWE	🚀 Projects
-Building practical ML projects & strengthening fundamentals	Consistent problem solving across core data structures and algorithms	Writing clean, maintainable software & improving engineering skills	Turning concepts into complete, usable applications
-🛠️ Tech Stack (Organized by Mastery)
-🧠 AI/ML/Deep Learning (Current Power Zone 🔥)
-PyTorch • TensorFlow/Keras • Scikit-Learn • NumPy • Pandas
-XGBoost • BERT • Transformers • HuggingFace • Jupyter/Colab
-Linear Regression → Neural Networks → CNNs → LSTM → Transformers
 
-Show Image Show Image Show Image Show Image Show Image
+---
 
-🧬 Data Structures & Algorithms (Top 10% Globally 📈)
-Arrays | LinkedLists | Trees | Graphs | Heaps | Hash Maps
-Sorting | Searching | Binary Search | Sliding Window | DP
-LeetCode Rating: 1759 | Consistent Problem Solver
+## ⚡ Current Focus <img src="https://media.giphy.com/media/QssGEjMiMWYMPewLEV/giphy.gif" width="25">
 
-Show Image Show Image
+| 🤖 AI/ML | 🔢 DSA | 💻 SWE | 🚀 Projects |
+|:---:|:---:|:---:|:---:|
+| **Building practical ML projects & strengthening fundamentals** | **Consistent problem solving across core data structures and algorithms** | **Writing clean, maintainable software & improving engineering skills** | **Turning concepts into complete, usable applications** |
 
-🔧 Backend Engineering (Strong Foundation 💪)
-Java • Spring Boot • Node.js • Express.js • REST APIs
-JWT & Authentication • Database Design • Microservices Basics
+---
 
-Show Image Show Image Show Image Show Image Show Image
+## 🛠️ Tech Stack (Organized by Mastery)
 
-🎨 Frontend & Full-Stack (MERN Mastery 🚀)
+### 🧠 **AI/ML/Deep Learning** (Current Power Zone 🔥)
+```
+PyTorch • TensorFlow/Keras • Scikit-Learn • NumPy • Pandas • XGBoost
+BERT • Transformers • HuggingFace • Jupyter • Colab
+```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🧬 **Data Structures & Algorithms** (Top 10% Globally 📈)
+```
+Arrays • LinkedLists • Trees • Graphs • Heaps • Hash Maps
+Binary Search • Sliding Window • DP • LeetCode: 1759 ⭐
+```
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)
+
+---
+
+### 🔧 **Backend Engineering** (Strong Foundation 💪)
+```
+Java • Spring Boot • Node.js • Express.js
+JWT • Database Design • REST APIs • Microservices Basics
+```
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🎨 **Frontend & Full-Stack** (MERN Mastery 🚀)
+```
 React • MongoDB • Express • Node • TypeScript
-HTML • CSS • Tailwind • Responsive Design
+HTML • CSS • Tailwind • Responsive UI
+```
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
-Show Image Show Image Show Image Show Image
+---
 
-🛠️ Other Tools (Arsenal 🎯)
-Git • GitHub • Docker • FastAPI • Jupyter • Colab
-VS Code • JetBrains • Linux • APIs • Model Deployment
+### 🛠️ **DevOps & Tools** (Arsenal 🎯)
+```
+Git • GitHub • Docker • FastAPI • Jupyter • Colab • Linux
+VS Code • JetBrains • Model Deployment
+```
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
-Show Image Show Image Show Image
+---
 
-🎯 Featured Projects (Build → Understand → Debug → Improve → Repeat)
-<table> <tr> <td align="center" width="33%">
-🧠 PeerBridge
+## 🎯 Featured Projects
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧠 **PeerBridge**
 AI-Powered Mentorship Platform
 
-MERN Stack + AI Features
+MERN • JWT • AI Features
 
-Full-stack mentorship app
-Authentication & JWT
-AI-powered matching
+[View Repo](https://github.com/aadesh-2006)
 
-View Repo
+</td>
+<td align="center" width="33%">
 
-</td> <td align="center" width="33%">
-⚡ ProgramEnergy
-
+### ⚡ **ProgramEnergy**
 Developer Productivity Platform
 
-Full-Stack Application
+Full-Stack • Real-time • Analytics
 
-Real-time tracking
-Performance analytics
-Gamification features
+[View Repo](https://github.com/aadesh-2006)
 
-View Repo
+</td>
+<td align="center" width="33%">
 
-</td> <td align="center" width="33%">
-🤖 Machine Learning Projects
-
+### 🤖 **ML Projects**
 Hands-On ML Experiments
 
-Jupyter Notebooks & Implementations
+Data • Models • Real-world Datasets
 
-Data Analysis & EDA
-Model Building & Evaluation
-Real-world Datasets
+[View Repo](https://github.com/aadesh-2006)
 
-View Repo
+</td>
+</tr>
+</table>
 
-</td> </tr> </table>
-📊 GitHub Analytics
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-Show Image
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadesh-2006&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=FF6B35&icon_color=FF6B35&text_color=ffffff&title_color=FF6B35)
 
-Show Image
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadesh-2006&layout=compact&theme=github_dark&bg_color=0d1117&border_color=6A4C93&text_color=ffffff&title_color=6A4C93)
 
-Show Image
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadesh-2006&theme=dark&background=0D1117&border=FF6B35&ring=FFA500&fire=FF6B35&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=A0AABB)
 
 </div>
-🚀 Learning Roadmap (Phase-by-Phase Journey)
-📍 PHASE 0: Survival + Setup (Now → Jun 19)
-   └─ Python Basics • Krish Naik ML Playlist • Clear Backlogs
-   
-📍 PHASE 1: Math + NumPy Foundation (Jun 20 → Jul 31)
-   └─ Linear Algebra • Calculus • Probability • NumPy Mastery
-   
-📍 PHASE 2: Classical ML (Aug → Sep 15)
-   └─ Pandas • Sklearn • Kaggle • Feature Engineering
-   
-📍 PHASE 3: Deep Learning + PyTorch (Sep 16 → Nov 30)
-   └─ Neural Networks • CNNs • LSTM • Transfer Learning
-   
-📍 PHASE 4: Transformers + Modern AI (Dec 2026 → Jan 2027)
-   └─ Attention Mechanism • BERT • LLMs • RAG Systems
-   
-📍 PHASE 5: AI Engineering + Deployment (Feb 2027)
-   └─ FastAPI • Docker • Model Serving • MLflow
-   
-📍 PHASE 6: Research + Applications (Mar → Jun 2027)
-   └─ Paper Replication • Open Source • Cold Emails → Google
-📈 Current Metrics
-Metric	Value	Status
-🎓 CGPA	6.38 → 8.0+ (post-backlog)	📈 Improving
-💻 LeetCode Rating	1759 (Top 10%)	⭐ Strong
-🔥 GitHub Streak	6 Days (Current)	🔄 Building
-📚 Krish Naik ML	30/153 Episodes	🎯 On Track
-🏆 Hackathons	3 Active Registrations	🚀 Grinding
-🔗 Connect With Me
+
+---
+
+## 📈 Current Metrics
+
+| Metric | Value | Status |
+|--------|-------|--------|
+| 🎓 **CGPA** | 6.38 → 8.0+ (post-backlog) | 📈 Improving |
+| 💻 **LeetCode Rating** | 1759 (Top 10%) | ⭐ Strong |
+| 🔥 **GitHub Streak** | 6 Days (Current) | 🔄 Building |
+| 📚 **Krish Naik ML** | 30/153 Episodes | 🎯 On Track |
+| 🏆 **Hackathons** | 3 Active Registrations | 🚀 Grinding |
+
+---
+
+## 🔗 Connect With Me
+
 <div align="center">
 
-LinkedIn Portfolio GitHub Email
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-gund/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://aadesh2006-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadesh-2006)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umesh.24bce7515@vitapstudent.ac.in)
 
 </div>
-💡 Philosophy
+
+---
+
+## 💡 Philosophy
+
+```
 "Build → Understand → Debug → Improve → Repeat"
 
 I don't just make things work. I make things work WELL.
 Understanding the WHY, not just the HOW.
+```
+
+---
+
 <div align="center">
-🎯 Next Checkpoint: GOOGLE AI/ML INTERNSHIP SUMMER 2027
 
-CGPA 7.5+ | LeetCode 1900+ | 4-5 Deployed Projects | Open Source Contributions
+### 🎯 Next Checkpoint: GOOGLE AI/ML INTERNSHIP SUMMER 2027
 
-Show Image
+**CGPA 7.5+ | LeetCode 1900+ | 4-5 Deployed Projects | Open Source Contributions**
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time.;Let's+ship+it.+🚀)
 
 </div>
+
+---
+
 <div align="center">
 
-⭐ If you found this interesting, drop a star! ⭐
+⭐ **If you found this interesting, drop a star!** ⭐
 
-Last Updated: August 2026 | Always Learning | Always Shipping
+*Last Updated: August 2026 | Always Learning | Always Shipping*
 
 </div>
