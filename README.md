@@ -1,8 +1,8 @@
 <div align="center">
 
-Aadesh Gund
+# Aadesh Gund
 
-AI/ML • Software Engineering • Data Structures & Algorithms
+### AI/ML • Software Engineering • Data Structures & Algorithms
 
 Building practical systems, learning deeply, and shipping consistently.
 
@@ -19,20 +19,20 @@ Building practical systems, learning deeply, and shipping consistently.
 
 <hr>
 
-👨‍💻 About Me
+## 👨‍💻 About Me
 
 <table>
 <tr>
 <td width="50%">
 
-🎓 Computer Science Student
+🎓 **Computer Science Student**
 
 Focused on building strong foundations in software engineering and AI/ML.
 
 </td>
 <td width="50%">
 
-🤖 AI/ML
+🤖 **AI/ML**
 
 Learning by building practical projects across data, machine learning, and intelligent applications.
 
@@ -41,14 +41,14 @@ Learning by building practical projects across data, machine learning, and intel
 <tr>
 <td width="50%">
 
-💻 Software Engineering
+💻 **Software Engineering**
 
 Strengthening Java, Python, JavaScript/TypeScript and full-stack development skills.
 
 </td>
 <td width="50%">
 
-🧠 Problem Solving
+🧠 **Problem Solving**
 
 Consistently practicing Data Structures & Algorithms to build strong technical fundamentals.
 
@@ -58,15 +58,15 @@ Consistently practicing Data Structures & Algorithms to build strong technical f
 
 <hr>
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Languages
+### Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
 </p>
 
-AI / ML & Data
+### AI / ML & Data
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
@@ -76,7 +76,7 @@ AI / ML & Data
 <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </p>
 
-Development & Tools
+### Development & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,nodejs" />
@@ -84,7 +84,7 @@ Development & Tools
 
 <hr>
 
-🎯 Current Focus
+## 🎯 Current Focus
 
 <table>
 <tr>
@@ -107,46 +107,46 @@ Development & Tools
 
 <hr>
 
-📌 Featured Work
+## 📌 Featured Work
 
 <table>
 <tr>
 <td width="50%">
 
-🌐 Portfolio
+### 🌐 Portfolio
 
 Modern developer portfolio showcasing projects, skills, and work.
 
-TypeScript
+**TypeScript**
 
 </td>
 <td width="50%">
 
-💸 TripSplit
+### 💸 TripSplit
 
 Application project focused on splitting and managing shared expenses.
 
-JavaScript
+**JavaScript**
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-🤖 Machine Learning
+### 🤖 Machine Learning
 
 ML experiments, notebooks, and hands-on learning work.
 
-Python • Jupyter
+**Python • Jupyter**
 
 </td>
 <td width="50%">
 
-☕ Forge
+### ☕ Forge
 
 Software engineering project completed through the JPMorgan Forage program.
 
-Java
+**Java**
 
 </td>
 </tr>
@@ -154,11 +154,11 @@ Java
 
 <hr>
 
-🧩 How I Build
+## 🧩 How I Build
 
 <div align="center">
 
-Build → Understand → Debug → Improve → Repeat
+### Build → Understand → Debug → Improve → Repeat
 
 I care about understanding why something works, not just making it work.
 
@@ -166,17 +166,19 @@ I care about understanding why something works, not just making it work.
 
 <hr>
 
-📊 GitHub Activity
+## 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aadesh-2006&theme=github-dark&hide_border=true&area=true" width="100%" />
+<a href="https://github.com/aadesh-2006">
+  <img src="https://streak-stats.demolab.com/?user=aadesh-2006&theme=dark" alt="GitHub Streak" />
+</a>
 
 </div>
 
 <hr>
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
@@ -189,6 +191,6 @@ I care about understanding why something works, not just making it work.
 
 <br><br>
 
-Build. Learn. Iterate.
+### Build. Learn. Iterate.
 
 </div>
