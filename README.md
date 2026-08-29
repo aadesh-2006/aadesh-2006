@@ -1,13 +1,13 @@
-<div align="center">
-
-# Aadesh Gund
-
-### AI/ML • Software Engineering • Data Structures & Algorithms
-
-Building practical systems, learning deeply, and shipping consistently.
-
-<br>
-
+<div align="center"> 
+ 
+# Aadesh Gund 
+ 
+### AI/ML • Software Engineering • Data Structures & Algorithms 
+ 
+Building practical systems, learning deeply, and shipping consistently. 
+ 
+<br> 
+ 
 <a href="https://github.com/aadesh-2006">
   <img src="https://img.shields.io/badge/GitHub-aadesh--2006-181717?style=for-the-badge&logo=github" />
 </a>
@@ -171,7 +171,7 @@ I care about understanding why something works, not just making it work.
 <div align="center">
 
 <a href="https://github.com/aadesh-2006">
-  <img src="https://streak-stats.demolab.com/?user=aadesh-2006&theme=dark" alt="GitHub Streak" />
+  <img src="https://streak-stats.vercel.app/?user=aadesh-2006&theme=dark" alt="GitHub Streak" />
 </a>
 
 </div>
