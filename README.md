@@ -1,21 +1,18 @@
-
-# 🚀 Aadesh Gund 
-  
-
-
-# AI/ML Engineer • DSA  • Full-Stack Builder
-
 <div align="center">
 
+# 🚀 Aadesh Gund
+
+# AI/ML Engineer • DSA • Full-Stack Builder
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aadesh-2006&label=Profile%20Views&color=FF6B35&style=flat-square)
-![Repos Badge](https://img.shields.io/badge/Repositories-8+-6A4C93?style=flat-square&logo=github) 
+![Repos Badge](https://img.shields.io/badge/Repositories-8+-6A4C93?style=flat-square&logo=github)
 ![LeetCode](https://img.shields.io/badge/LeetCode-1759%20Rating-FFA500?style=flat-square&logo=leetcode)
 
 ```
 ╔════════════════════════════════════════════════════════════╗
 ║  🎯 Build things which makes world better....             ║
 ║      Learn everyday                                        ║
-║      BUild everyday                                        ║
+║      Build everyday                                        ║
 ║                                                            ║
 ╚════════════════════════════════════════════════════════════╝
 ```
@@ -97,27 +94,17 @@ VS Code • JetBrains • Model Deployment
 
 <table>
 <tr>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
-### 🧠 **PeerBridge**
-AI-Powered Mentorship Platform
+### 💰 **TripSplit**
+Expense Sharing & Trip Management
 
-MERN • JWT • AI Features
-
-[View Repo](https://github.com/aadesh-2006)
-
-</td>
-<td align="center" width="33%">
-
-### ⚡ **ProgramEnergy**
-Developer Productivity Platform
-
-Full-Stack • Real-time • Analytics
+JavaScript • Full-Stack • Real-time Tracking
 
 [View Repo](https://github.com/aadesh-2006)
 
 </td>
-<td align="center" width="33%">
+<td align="center" width="50%">
 
 ### 🤖 **ML Projects**
 Hands-On ML Experiments
@@ -146,18 +133,6 @@ Data • Models • Real-world Datasets
 
 ---
 
-## 📈 Current Metrics
-
-| Metric | Value | Status |
-|--------|-------|--------|
-| 🎓 **CGPA** | 6.38 → 8.0+ (post-backlog) | 📈 Improving |
-| 💻 **LeetCode Rating** | 1759 (Top 10%) | ⭐ Strong |
-| 🔥 **GitHub Streak** | 6 Days (Current) | 🔄 Building |
-| 📚 **Krish Naik ML** | 30/153 Episodes | 🎯 On Track |
-| 🏆 **Hackathons** | 3 Active Registrations | 🚀 Grinding |
-
----
-
 ## 🔗 Connect With Me
 
 <div align="center">
@@ -165,7 +140,7 @@ Data • Models • Real-world Datasets
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-gund/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://aadesh2006-portfolio.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadesh-2006)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:umesh.24bce7515@vitapstudent.ac.in)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadeshgund.2006@gmail.com)
 
 </div>
 
@@ -179,18 +154,6 @@ Data • Models • Real-world Datasets
 I don't just make things work. I make things work WELL.
 Understanding the WHY, not just the HOW.
 ```
-
----
-
-<div align="center">
-
-### 🎯 Next Checkpoint: GOOGLE AI/ML INTERNSHIP SUMMER 2027
-
-**CGPA 7.5+ | LeetCode 1900+ | 4-5 Deployed Projects | Open Source Contributions**
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B35&center=true&vCenter=true&width=600&lines=Building+the+future%2C+one+commit+at+a+time.;Let's+ship+it.+🚀)
-
-</div>
 
 ---
 
