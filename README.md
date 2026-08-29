@@ -8,7 +8,7 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=aadesh-2006&label=Profile%20Views&color=FF6B35&style=flat-square)
-![Repos Badge](https://img.shields.io/badge/Repositories-8+-6A4C93?style=flat-square&logo=github)
+![Repos Badge](https://img.shields.io/badge/Repositories-8+-6A4C93?style=flat-square&logo=github) 
 ![LeetCode](https://img.shields.io/badge/LeetCode-1759%20Rating-FFA500?style=flat-square&logo=leetcode)
 
 ```
