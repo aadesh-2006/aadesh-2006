@@ -1,196 +1,152 @@
-<div align="center"> 
- 
-# Aadesh Gund 
- 
-### AI/ML • Software Engineering • Data Structures & Algorithms 
- 
-Building practical systems, learning deeply, and shipping consistently. 
- 
-<br> 
- 
-<a href="https://github.com/aadesh-2006">
-  <img src="https://img.shields.io/badge/GitHub-aadesh--2006-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/aadesh-gund-83b19a225/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-
-</div>
-
-<hr>
-
-## 👨‍💻 About Me
-
-<table>
-<tr>
-<td width="50%">
-
-🎓 **Computer Science Student**
-
-Focused on building strong foundations in software engineering and AI/ML.
-
-</td>
-<td width="50%">
-
-🤖 **AI/ML**
-
-Learning by building practical projects across data, machine learning, and intelligent applications.
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-💻 **Software Engineering**
-
-Strengthening Java, Python, JavaScript/TypeScript and full-stack development skills.
-
-</td>
-<td width="50%">
-
-🧠 **Problem Solving**
-
-Consistently practicing Data Structures & Algorithms to build strong technical fundamentals.
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-## 🛠️ Tech Stack
-
-### Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts" />
-</p>
-
-### AI / ML & Data
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow" />
-&nbsp;
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-</p>
-
-### Development & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,html,css,nodejs" />
-</p>
-
-<hr>
-
-## 🎯 Current Focus
-
-<table>
-<tr>
-<td>🤖 <b>AI / ML</b></td>
-<td>Building practical ML projects and strengthening fundamentals</td>
-</tr>
-<tr>
-<td>🧠 <b>DSA</b></td>
-<td>Consistent problem solving across core data structures and algorithms</td>
-</tr>
-<tr>
-<td>💻 <b>SWE</b></td>
-<td>Writing clean, maintainable software and improving engineering skills</td>
-</tr>
-<tr>
-<td>🚀 <b>Projects</b></td>
-<td>Turning concepts into complete, usable applications</td>
-</tr>
-</table>
-
-<hr>
-
-## 📌 Featured Work
-
-<table>
-<tr>
-<td width="50%">
-
-### 🌐 Portfolio
-
-Modern developer portfolio showcasing projects, skills, and work.
-
-**TypeScript**
-
-</td>
-<td width="50%">
-
-### 💸 TripSplit
-
-Application project focused on splitting and managing shared expenses.
-
-**JavaScript**
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### 🤖 Machine Learning
-
-ML experiments, notebooks, and hands-on learning work.
-
-**Python • Jupyter**
-
-</td>
-<td width="50%">
-
-### ☕ Forge
-
-Software engineering project completed through the JPMorgan Forage program.
-
-**Java**
-
-</td>
-</tr>
-</table>
-
-<hr>
-
-## 🧩 How I Build
-
+🚀 Aadesh Gund | AI/ML Engineer • DSA Warrior • Full-Stack Builder
 <div align="center">
 
-### Build → Understand → Debug → Improve → Repeat
+Show Image Show Image Show Image
 
-I care about understanding why something works, not just making it work.
-
+╔════════════════════════════════════════════════════════════╗
+║  🎯 Building Practical Systems • Learning Deeply          ║
+║  📍 VIT-AP University, Batch 2024-2028 | AIR 440 JEE      ║
+║  🔗 FAANG Internship Incoming • R&D Passion               ║
+╚════════════════════════════════════════════════════════════╝
 </div>
+⚡ Current Focus <img src="https://media.giphy.com/media/QssGEjMiMWYMPewLEV/giphy.gif" width="25">
+🤖 AI/ML	🔢 DSA	💻 SWE	🚀 Projects
+Building practical ML projects & strengthening fundamentals	Consistent problem solving across core data structures and algorithms	Writing clean, maintainable software & improving engineering skills	Turning concepts into complete, usable applications
+🛠️ Tech Stack (Organized by Mastery)
+🧠 AI/ML/Deep Learning (Current Power Zone 🔥)
+PyTorch • TensorFlow/Keras • Scikit-Learn • NumPy • Pandas
+XGBoost • BERT • Transformers • HuggingFace • Jupyter/Colab
+Linear Regression → Neural Networks → CNNs → LSTM → Transformers
 
-<hr>
+Show Image Show Image Show Image Show Image Show Image
 
-## 🔥 GitHub Streak
+🧬 Data Structures & Algorithms (Top 10% Globally 📈)
+Arrays | LinkedLists | Trees | Graphs | Heaps | Hash Maps
+Sorting | Searching | Binary Search | Sliding Window | DP
+LeetCode Rating: 1759 | Consistent Problem Solver
 
+Show Image Show Image
+
+🔧 Backend Engineering (Strong Foundation 💪)
+Java • Spring Boot • Node.js • Express.js • REST APIs
+JWT & Authentication • Database Design • Microservices Basics
+
+Show Image Show Image Show Image Show Image Show Image
+
+🎨 Frontend & Full-Stack (MERN Mastery 🚀)
+React • MongoDB • Express • Node • TypeScript
+HTML • CSS • Tailwind • Responsive Design
+
+Show Image Show Image Show Image Show Image
+
+🛠️ Other Tools (Arsenal 🎯)
+Git • GitHub • Docker • FastAPI • Jupyter • Colab
+VS Code • JetBrains • Linux • APIs • Model Deployment
+
+Show Image Show Image Show Image
+
+🎯 Featured Projects (Build → Understand → Debug → Improve → Repeat)
+<table> <tr> <td align="center" width="33%">
+🧠 PeerBridge
+
+AI-Powered Mentorship Platform
+
+MERN Stack + AI Features
+
+Full-stack mentorship app
+Authentication & JWT
+AI-powered matching
+
+View Repo
+
+</td> <td align="center" width="33%">
+⚡ ProgramEnergy
+
+Developer Productivity Platform
+
+Full-Stack Application
+
+Real-time tracking
+Performance analytics
+Gamification features
+
+View Repo
+
+</td> <td align="center" width="33%">
+🤖 Machine Learning Projects
+
+Hands-On ML Experiments
+
+Jupyter Notebooks & Implementations
+
+Data Analysis & EDA
+Model Building & Evaluation
+Real-world Datasets
+
+View Repo
+
+</td> </tr> </table>
+📊 GitHub Analytics
 <div align="center">
 
-<a href="https://github.com/aadesh-2006">
-  <img src="https://streak-stats.vercel.app/?user=aadesh-2006&theme=dark" alt="GitHub Streak" />
-</a>
+Show Image
+
+Show Image
+
+Show Image
 
 </div>
-
-<hr>
-
-## 🤝 Connect With Me
-
+🚀 Learning Roadmap (Phase-by-Phase Journey)
+📍 PHASE 0: Survival + Setup (Now → Jun 19)
+   └─ Python Basics • Krish Naik ML Playlist • Clear Backlogs
+   
+📍 PHASE 1: Math + NumPy Foundation (Jun 20 → Jul 31)
+   └─ Linear Algebra • Calculus • Probability • NumPy Mastery
+   
+📍 PHASE 2: Classical ML (Aug → Sep 15)
+   └─ Pandas • Sklearn • Kaggle • Feature Engineering
+   
+📍 PHASE 3: Deep Learning + PyTorch (Sep 16 → Nov 30)
+   └─ Neural Networks • CNNs • LSTM • Transfer Learning
+   
+📍 PHASE 4: Transformers + Modern AI (Dec 2026 → Jan 2027)
+   └─ Attention Mechanism • BERT • LLMs • RAG Systems
+   
+📍 PHASE 5: AI Engineering + Deployment (Feb 2027)
+   └─ FastAPI • Docker • Model Serving • MLflow
+   
+📍 PHASE 6: Research + Applications (Mar → Jun 2027)
+   └─ Paper Replication • Open Source • Cold Emails → Google
+📈 Current Metrics
+Metric	Value	Status
+🎓 CGPA	6.38 → 8.0+ (post-backlog)	📈 Improving
+💻 LeetCode Rating	1759 (Top 10%)	⭐ Strong
+🔥 GitHub Streak	6 Days (Current)	🔄 Building
+📚 Krish Naik ML	30/153 Episodes	🎯 On Track
+🏆 Hackathons	3 Active Registrations	🚀 Grinding
+🔗 Connect With Me
 <div align="center">
 
-<a href="https://www.linkedin.com/in/aadesh-gund-83b19a225/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/aadesh-2006">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+LinkedIn Portfolio GitHub Email
 
-<br><br>
+</div>
+💡 Philosophy
+"Build → Understand → Debug → Improve → Repeat"
 
-### Build. Learn. Iterate.
+I don't just make things work. I make things work WELL.
+Understanding the WHY, not just the HOW.
+<div align="center">
+🎯 Next Checkpoint: GOOGLE AI/ML INTERNSHIP SUMMER 2027
+
+CGPA 7.5+ | LeetCode 1900+ | 4-5 Deployed Projects | Open Source Contributions
+
+Show Image
+
+</div>
+<div align="center">
+
+⭐ If you found this interesting, drop a star! ⭐
+
+Last Updated: August 2026 | Always Learning | Always Shipping
 
 </div>
