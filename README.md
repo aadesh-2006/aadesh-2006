@@ -1,6 +1,6 @@
 # 🚀 Aadesh Gund 
 
-AI/ML Engineer • DSA  • Full-Stack Builder
+# AI/ML Engineer • DSA  • Full-Stack Builder
 
 <div align="center">
 
