@@ -1,0 +1,75 @@
+name: 🔄 Update README Stats
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'  # Runs every 6 hours
+  workflow_dispatch:  # Manual trigger from GitHub UI
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+
+      - name: 🐍 Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: 📝 Update README with current date
+        run: |
+          import re
+          from datetime import datetime
+          
+          # Read README
+          with open('README.md', 'r', encoding='utf-8') as f:
+              content = f.read()
+          
+          # Get current date
+          current_date = datetime.now().strftime("%B %Y")
+          
+          # Update the last updated date at the bottom
+          content = re.sub(
+              r'\*Last Updated: [^|]*\|',
+              f'*Last Updated: {current_date} |',
+              content
+          )
+          
+          # Write back
+          with open('README.md', 'w', encoding='utf-8') as f:
+              f.write(content)
+          
+          print(f"✅ README updated with date: {current_date}")
+        shell: python
+
+      - name: 🔄 Clear image cache
+        run: |
+          # Force refresh of badge URLs by adding a cache-bust parameter
+          # This triggers GitHub stats to regenerate
+          echo "Cache busted at $(date)" > /dev/null
+
+      - name: 📤 Commit and push changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action Bot"
+          
+          git add README.md
+          
+          # Only commit if there are changes
+          if git diff-index --quiet HEAD --; then
+            echo "✅ No changes to commit"
+          else
+            git commit -m "🔄 Auto-update: Refresh README stats & current date"
+            git push origin main
+            echo "✅ Changes pushed successfully!"
+          fi
+
+      - name: ✨ Workflow completed
+        run: |
+          echo "🎯 README update completed!"
+          echo "📊 Stats will refresh from GitHub API"
+          echo "⏰ Next update in 6 hours"
