@@ -119,15 +119,17 @@ Data • Models • Real-world Datasets
 
 ---
 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadesh-2006&show_icons=true&theme=github_dark&bg_color=0d1117&border_color=FF6B35&icon_color=FF6B35&text_color=ffffff&title_color=FF6B35&cache_seconds=0)
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="49%" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadesh-2006&layout=compact&theme=github_dark&bg_color=0d1117&border_color=6A4C93&text_color=ffffff&title_color=6A4C93&cache_seconds=0)
+<br><br>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=aadesh-2006&theme=dark&background=0D1117&border=FF6B35&ring=FFA500&fire=FF6B35&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=A0AABB)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadesh-2006&theme=dark&background=0D1117&border=FF6B35&ring=FFA500&fire=FF6B35&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=AAAAAA)
 
 </div>
 
