@@ -95,29 +95,40 @@ VS Code • JetBrains • Model Deployment
 
 <table>
 <tr>
-<td align="center" width="50%">
+<td align="center" width="33%">
 
 ### 🧪 **MockAPILab**
 Intelligent Stateful Mock Backend
 
-Java • Spring Boot • Redis • Kafka • Gemini AI
+Java • Spring Boot • Redis • Kafka
 
 [View Repo](https://github.com/aadesh-2006/MockAPILab)
 
 </td>
-<td align="center" width="50%">
+
+<td align="center" width="33%">
 
 ### 🚦 **FlowSync**
 Adaptive Traffic Signal Control
 
-Python • YOLOv8 • FastAPI • SUMO • TraCI
+Python • YOLOv8 • FastAPI • SUMO
 
 [View Repo](https://github.com/aadesh-2006/FlowSync)
 
 </td>
+
+<td align="center" width="33%">
+
+### 📊 **GitPulse**
+GitHub Repository Intelligence Platform
+
+Java • Spring Boot • Kafka • PostgreSQL
+
+[View Repo](https://github.com/aadesh-2006/GitPulse)
+
+</td>
 </tr>
 </table>
-
 
 ---
 
