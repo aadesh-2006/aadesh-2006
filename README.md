@@ -90,32 +90,34 @@ VS Code • JetBrains • Model Deployment
 
 ---
 
+
 ## 🎯 Featured Projects
 
 <table>
 <tr>
 <td align="center" width="50%">
 
-### 💰 **TripSplit**
-Expense Sharing & Trip Management
+### 🧪 **MockAPILab**
+Intelligent Stateful Mock Backend
 
-JavaScript • Full-Stack • Real-time Tracking
+Java • Spring Boot • Redis • Kafka • Gemini AI
 
-[View Repo](https://github.com/aadesh-2006)
+[View Repo](https://github.com/aadesh-2006/MockAPILab)
 
 </td>
 <td align="center" width="50%">
 
-### 🤖 **ML Projects**
-Hands-On ML Experiments
+### 🚦 **FlowSync**
+Adaptive Traffic Signal Control
 
-Data • Models • Real-world Datasets
+Python • YOLOv8 • FastAPI • SUMO • TraCI
 
-[View Repo](https://github.com/aadesh-2006)
+[View Repo](https://github.com/aadesh-2006/FlowSync)
 
 </td>
 </tr>
 </table>
+
 
 ---
 
