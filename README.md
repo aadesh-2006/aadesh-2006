@@ -4,7 +4,7 @@
 
 # AI/ML Engineer • DSA • Full-Stack Builder
 
-![Profile Views](https://komarev.com/ghpvc/?username=aadesh-2006&label=Profile%20Views&color=FF6B35&style=flat-square)
+
 ![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faadesh-2006&query=%24.public_repos&label=Repositories&color=6A4C93&style=flat-square&logo=github)
 ![LeetCode](https://img.shields.io/badge/LeetCode-1759%20Rating-FFA500?style=flat-square&logo=leetcode)
 
