@@ -105,7 +105,16 @@ Java • Spring Boot • Redis • Kafka
 [View Repo](https://github.com/aadesh-2006/MockAPILab)
 
 </td>
+<td align="center" width="33%">
 
+### 📊 **GitPulse**
+GitHub Repository Intelligence Platform
+
+Java • Spring Boot • Kafka • PostgreSQL
+
+[View Repo](https://github.com/aadesh-2006/GitPulse)
+
+</td>
 <td align="center" width="33%">
 
 ### 🚦 **FlowSync**
@@ -117,16 +126,7 @@ Python • YOLOv8 • FastAPI • SUMO
 
 </td>
 
-<td align="center" width="33%">
 
-### 📊 **GitPulse**
-GitHub Repository Intelligence Platform
-
-Java • Spring Boot • Kafka • PostgreSQL
-
-[View Repo](https://github.com/aadesh-2006/GitPulse)
-
-</td>
 </tr>
 </table>
 
