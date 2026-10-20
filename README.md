@@ -1,1 +1,182 @@
+<div align="center">
+
+# 🚀 Aadesh Gund
+
+# AI/ML Engineer • DSA • Full-Stack Builder
+
+
+![Repositories](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Faadesh-2006&query=%24.public_repos&label=Repositories&color=6A4C93&style=flat-square&logo=github)
+![LeetCode](https://img.shields.io/badge/LeetCode-1759%20Rating-FFA500?style=flat-square&logo=leetcode)
+
+```
+╔════════════════════════════════════════════════════════════╗
+║  🎯 Build things which makes world better....             ║
+║      Learn everyday                                        ║
+║      Build everyday                                        ║
+║                                                            ║
+╚════════════════════════════════════════════════════════════╝
+```
+
+</div>
+
+---
+
+## ⚡ Current Focus <img src="https://media.giphy.com/media/QssGEjMiMWYMPewLEV/giphy.gif" width="25">
+
+| 🤖 AI/ML | 🔢 DSA | 💻 SWE | 🚀 Projects |
+|:---:|:---:|:---:|:---:|
+| **Building practical ML projects & strengthening fundamentals** | **Consistent problem solving across core data structures and algorithms** | **Writing clean, maintainable software & improving engineering skills** | **Turning concepts into complete, usable applications** |
+
+---
+
+## 🛠️ Tech Stack (Organized by Mastery)
+
+### 🧠 **AI/ML/Deep Learning** (Current Power Zone 🔥)
+```
+PyTorch • TensorFlow/Keras • Scikit-Learn • NumPy • Pandas • XGBoost
+BERT • Transformers • HuggingFace • Jupyter • Colab
+```
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+---
+
+### 🧬 **Data Structures & Algorithms** (Top 10% Globally 📈)
+```
+Arrays • LinkedLists • Trees • Graphs • Heaps • Hash Maps
+Binary Search • Sliding Window • DP • LeetCode: 1759 ⭐
+```
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white)
+
+---
+
+### 🔧 **Backend Engineering** (Strong Foundation 💪)
+```
+Java • Spring Boot • Node.js • Express.js
+JWT • Database Design • REST APIs • Microservices Basics
+```
+![Java](https://img.shields.io/badge/Java-ED8936?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+---
+
+### 🎨 **Frontend & Full-Stack** (MERN Mastery 🚀)
+```
+React • MongoDB • Express • Node • TypeScript
+HTML • CSS • Tailwind • Responsive UI
+```
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+---
+
+### 🛠️ **DevOps & Tools** (Arsenal 🎯)
+```
+Git • GitHub • Docker • FastAPI • Jupyter • Colab • Linux
+VS Code • JetBrains • Model Deployment
+```
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+
+## 🎯 Featured Projects
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+### 🧪 **MockAPILab**
+Intelligent Stateful Mock Backend
+
+Java • Spring Boot • Redis • Kafka
+
+[View Repo](https://github.com/aadesh-2006/MockAPILab)
+
+</td>
+<td align="center" width="33%">
+
+### 📊 **GitPulse**
+GitHub Repository Intelligence Platform
+
+Java • Spring Boot • Kafka • PostgreSQL
+
+[View Repo](https://github.com/aadesh-2006/GitPulse)
+
+</td>
+<td align="center" width="33%">
+
+### 🚦 **FlowSync**
+Adaptive Traffic Signal Control
+
+Python • YOLOv8 • FastAPI • SUMO
+
+[View Repo](https://github.com/aadesh-2006/FlowSync)
+
+</td>
+
+
+</tr>
+</table>
+
+---
+
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="./profile/stats.svg" width="49%" />
+<img src="./profile/top-langs.svg" width="49%" />
+
+<br><br>
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aadesh-2006&theme=dark&background=0D1117&border=FF6B35&ring=FFA500&fire=FF6B35&currStreakNum=FFA500&sideNums=FFA500&currStreakLabel=FF6B35&sideLabels=FF6B35&dates=AAAAAA)
+
+</div>
+
+---
+
+## 🔗 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aadesh-gund/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF6B35?style=for-the-badge&logo=vercel&logoColor=white)](https://aadesh2006-portfolio.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadesh-2006)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadeshgund.2006@gmail.com)
+
+</div>
+
+---
+
+## 💡 Philosophy
+
+```
+"Build → Understand → Debug → Improve → Repeat"
+
+I don't just make things work. I make things work WELL.
+Understanding the WHY, not just the HOW.
+```
+
+---
+
+<div align="center">
+
+⭐ **If you found this interesting, drop a star!** ⭐
+
+*Last Updated: August 2026 | Always Learning | Always Shipping*
+
+</div>
 
